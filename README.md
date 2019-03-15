@@ -1,12 +1,13 @@
-Demetrios Doumas 2/12/19
+# Project Name: ASCII Table
+//Demetrios Doumas 2/12/19
 
-Summary:
+# Discription:
 
 I used DOSBox to create an ASCII table as part of a Class Assignment in Fall 2014. 
 The assembly language (instruction set) used is from the Intel 8086 processor.
 
-Direction:
-
+# Instruction/Usage
+Note: Make Sure to install TASM assembler
 1.) Save the file "project1.asm" in a folder on the C: directory. Remember the name of the folder and file.
 2.) Open DOSbox.
 3.) Type "mount c C:/"
@@ -32,7 +33,7 @@ What I learned:
 
 
 Note:
-Commands to assemble asm file.
+Commands to assemble asm file and create a exe file.
 
 tasm project1.asm
 tlink project1
